@@ -14,5 +14,11 @@ public class Loops_Java {
 			System.out.println(2*j);
 	
 		}
+		
+		int k = 0;
+		do {
+			System.out.println(k);
+			k++;
+		}while(k<=10);
 	}
 }
